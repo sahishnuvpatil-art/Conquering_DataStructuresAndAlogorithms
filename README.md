@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -84,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +109,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
