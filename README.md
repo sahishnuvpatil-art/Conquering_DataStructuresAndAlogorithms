@@ -16,6 +16,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [1140-stone-game-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -43,6 +44,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [1140-stone-game-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -79,6 +81,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2029-stone-game-ix](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -98,6 +101,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2029-stone-game-ix](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -125,6 +129,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [1140-stone-game-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,12 +165,14 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [1140-stone-game-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +213,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
