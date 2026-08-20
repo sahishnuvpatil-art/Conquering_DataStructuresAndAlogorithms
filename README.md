@@ -51,6 +51,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -77,6 +78,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
