@@ -25,6 +25,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
