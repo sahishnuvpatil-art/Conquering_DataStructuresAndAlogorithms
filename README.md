@@ -11,6 +11,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0486-predict-the-winner](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1140-stone-game-ii/) | Medium |
@@ -129,6 +130,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1406-stone-game-iii/) | Hard |
@@ -141,6 +143,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,4 +264,8 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
