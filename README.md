@@ -47,6 +47,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0035-search-insert-position](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0486-predict-the-winner](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0704-binary-search](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -173,6 +174,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0704-binary-search](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0704-binary-search/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Bit Manipulation
