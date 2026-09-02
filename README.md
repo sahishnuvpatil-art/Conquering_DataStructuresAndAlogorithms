@@ -80,6 +80,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0344-reverse-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [1927-sum-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1927-sum-game/) | Medium |
@@ -176,6 +177,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0027-remove-element](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
