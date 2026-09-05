@@ -10,6 +10,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0258-add-digits](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0486-predict-the-winner](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -103,6 +104,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0258-add-digits/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Heap (Priority Queue)
@@ -246,6 +248,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0258-add-digits/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## String Matching
