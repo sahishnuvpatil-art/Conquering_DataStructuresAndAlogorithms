@@ -32,6 +32,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3232-find-if-digit-game-can-be-won](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -91,6 +92,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [3024-type-of-triangle](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3232-find-if-digit-game-can-be-won](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
