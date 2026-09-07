@@ -72,6 +72,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2798-number-of-employees-who-met-the-target](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2974-minimum-number-game/) | Easy |
