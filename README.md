@@ -106,6 +106,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0151-reverse-words-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0344-reverse-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0709-to-lower-case](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1927-sum-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
