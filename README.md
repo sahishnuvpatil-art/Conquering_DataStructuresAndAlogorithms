@@ -96,6 +96,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0151-reverse-words-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0344-reverse-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1927-sum-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -164,6 +165,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0486-predict-the-winner](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1510-stone-game-iv/) | Hard |
