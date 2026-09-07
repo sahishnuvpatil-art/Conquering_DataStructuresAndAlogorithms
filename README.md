@@ -16,6 +16,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0628-maximum-product-of-three-numbers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1406-stone-game-iii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1486-xor-operation-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1510-stone-game-iv](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1510-stone-game-iv/) | Hard |
