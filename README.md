@@ -42,6 +42,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
@@ -65,6 +66,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0628-maximum-product-of-three-numbers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0877-stone-game/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1140-stone-game-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -215,6 +217,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0125-valid-palindrome](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
