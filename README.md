@@ -27,6 +27,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [2029-stone-game-ix](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [2469-convert-the-temperature](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2652-sum-multiples/) | Easy |
