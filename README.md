@@ -25,6 +25,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [1872-stone-game-viii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [2180-count-integers-with-even-digit-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2652-sum-multiples/) | Easy |
@@ -136,6 +137,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0258-add-digits/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2974-minimum-number-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
