@@ -74,6 +74,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0001-two-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -237,6 +238,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -247,6 +249,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0704-binary-search/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
