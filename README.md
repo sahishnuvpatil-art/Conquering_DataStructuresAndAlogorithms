@@ -76,6 +76,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0015-3sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0136-single-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -262,6 +263,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0136-single-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
