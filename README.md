@@ -54,6 +54,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0015-3sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -72,6 +73,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -234,6 +236,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0125-valid-palindrome/) | Easy |
