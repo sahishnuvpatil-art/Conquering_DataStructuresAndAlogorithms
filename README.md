@@ -71,6 +71,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -166,6 +167,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0202-happy-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
