@@ -10,6 +10,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0202-happy-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0258-add-digits/) | Easy |
@@ -78,6 +79,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0018-4sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
