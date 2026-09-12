@@ -62,6 +62,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0977-squares-of-a-sorted-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2974-minimum-number-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2974-minimum-number-game/) | Easy |
@@ -102,6 +103,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [1550-three-consecutive-odds](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1563-stone-game-v](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1872-stone-game-viii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -184,6 +186,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0202-happy-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -261,6 +264,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0532-k-diff-pairs-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
