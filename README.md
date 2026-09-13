@@ -91,6 +91,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0532-k-diff-pairs-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0835-image-overlap](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -402,6 +403,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Polygons
 | Problem Name | Difficulty |
