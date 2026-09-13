@@ -69,6 +69,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3024-type-of-triangle](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3024-type-of-triangle/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -119,6 +120,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -230,6 +232,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [1563-stone-game-v](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -279,6 +282,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
