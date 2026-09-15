@@ -58,6 +58,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | ------- | ------- |
 | [0015-3sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0018-4sum/) | Medium |
+| [0169-majority-element](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -86,6 +87,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0066-plus-one](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -179,6 +181,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0169-majority-element/) | Easy |
 | [2029-stone-game-ix](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -187,6 +190,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -434,4 +438,12 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
