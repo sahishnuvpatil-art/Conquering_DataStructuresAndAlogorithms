@@ -98,6 +98,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0628-maximum-product-of-three-numbers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0835-image-overlap](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0835-image-overlap/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
@@ -299,6 +300,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0410-split-array-largest-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0704-binary-search](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
