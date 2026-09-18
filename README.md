@@ -154,6 +154,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0151-reverse-words-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0344-reverse-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0709-to-lower-case](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -189,6 +190,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2029-stone-game-ix](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -199,6 +201,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0001-two-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -471,4 +474,8 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
