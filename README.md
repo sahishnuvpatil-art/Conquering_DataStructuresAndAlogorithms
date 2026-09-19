@@ -34,6 +34,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [2029-stone-game-ix](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2469-convert-the-temperature](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -295,6 +296,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0962-maximum-width-ramp](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -482,4 +484,8 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
