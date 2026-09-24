@@ -53,6 +53,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [3524-find-x-value-of-array-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -143,6 +144,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [3524-find-x-value-of-array-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
