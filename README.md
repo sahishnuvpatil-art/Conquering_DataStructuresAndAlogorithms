@@ -11,6 +11,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0202-happy-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0258-add-digits/) | Easy |
@@ -266,6 +267,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -457,6 +459,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
