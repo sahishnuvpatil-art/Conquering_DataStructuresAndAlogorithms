@@ -72,6 +72,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0628-maximum-product-of-three-numbers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -175,6 +176,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0412-fizz-buzz](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0709-to-lower-case](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -227,6 +229,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0202-happy-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -390,12 +393,14 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -494,6 +499,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
