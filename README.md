@@ -174,6 +174,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [0125-valid-palindrome](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0412-fizz-buzz/) | Easy |
@@ -404,6 +405,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -411,6 +413,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Number Theory
