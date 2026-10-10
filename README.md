@@ -78,6 +78,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [1552-magnetic-force-between-two-balls](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2974-minimum-number-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -135,6 +136,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [2164-sort-even-and-odd-indices-independently](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -219,6 +221,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2974-minimum-number-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -272,6 +275,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [1927-sum-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -357,6 +361,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
