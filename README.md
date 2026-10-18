@@ -90,6 +90,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3731-find-missing-elements](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -161,6 +162,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [3525-find-x-value-of-array-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -261,6 +263,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3731-find-missing-elements/) | Easy |
