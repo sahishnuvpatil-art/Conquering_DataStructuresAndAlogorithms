@@ -30,6 +30,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [1510-stone-game-iv](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1563-stone-game-v](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1927-sum-game/) | Medium |
@@ -126,6 +127,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [1550-three-consecutive-odds](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1563-stone-game-v](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -265,6 +267,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -307,6 +310,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [1406-stone-game-iii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -500,9 +504,11 @@ This repo contains solutions to all the problems I have solved on leecode .
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -522,10 +528,12 @@ This repo contains solutions to all the problems I have solved on leecode .
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -555,6 +563,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0169-majority-element/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -598,4 +607,12 @@ This repo contains solutions to all the problems I have solved on leecode .
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
