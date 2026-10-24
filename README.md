@@ -39,6 +39,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [2180-count-integers-with-even-digit-sum](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2409-count-days-spent-together](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2469-convert-the-temperature](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -203,6 +204,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2409-count-days-spent-together](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
