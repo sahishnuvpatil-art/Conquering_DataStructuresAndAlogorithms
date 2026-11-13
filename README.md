@@ -158,6 +158,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -500,12 +501,14 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -564,10 +567,12 @@ This repo contains solutions to all the problems I have solved on leecode .
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0962-maximum-width-ramp](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -591,6 +596,7 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sahishnuvpatil-art/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -630,4 +636,8 @@ This repo contains solutions to all the problems I have solved on leecode .
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sahishnuvpatil-art/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sahishnuvpatil-art/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
